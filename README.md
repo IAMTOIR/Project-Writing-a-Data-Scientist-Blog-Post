@@ -1,2 +1,2 @@
-# Project-Writing-a-Data-Scientist-Blog-Post
+# Wine-Review-Data-Scientist-Blog-Post
 Udaciy Scientist
