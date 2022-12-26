@@ -6,9 +6,9 @@ This project is part of the Nanodegree Program for Data Scientists at Udacity.
 ## Business Understanding
 Based on information obtained from data.opendevelopmentmekong.net I dug deep into analysis to get answers to three major questions:
 
-1. State of Affairs 2020–2021 in Vietnam
-2. State of Affairs 2020–2021 in ASEAN and China
-3. Which country resulted in the fastest spread of COVID-19?
+1. What is the state of affairs in Vietnam in 2020-2021?
+2. Current Situation in ASEAN and China in 2020-2021
+3. Which nation had the most rapid spread of COVID-19?
 
 ## General Analysis
 
