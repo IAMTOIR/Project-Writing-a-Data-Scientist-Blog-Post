@@ -1,4 +1,4 @@
-To describe the findings, I wrote a medium-length blog entry.
+To describe the findings, I wrote a medium-length blog entry at https://medium.com/@thoai.phank18/covid-19-impact-assessment-in-asean-and-china-2020-2021-2ee9bdc6337e
 
 ## Introduction
 This project is part of the Nanodegree Program for Data Scientists at Udacity.
