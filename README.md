@@ -1,23 +1,46 @@
-To describe the findings, I wrote a medium-length blog entry at https://medium.com/@thoai.phank18/covid-19-impact-assessment-in-asean-and-china-2020-2021-2ee9bdc6337e
-
 ## Introduction
 This project is part of the Nanodegree Program for Data Scientists at Udacity.
 
-## Business Understanding
-Based on information obtained from data.opendevelopmentmekong.net I dug deep into analysis to get answers to three major questions:
+1- Business Understanding
+We investigated if North America was a better place for a software engineer to settle than Europe.
 
-1. What is the state of affairs in Vietnam in 2020-2021?
-2. Current Situation in ASEAN and China in 2020-2021
-3. Which nation had the most rapid spread of COVID-19?
+To do so, it is vital to understand job searchers' goals; factors such as compensation, possibility for wage growth, and job contentment are critical in identifying the optimal location.
 
-## General Analysis
+We asked three questions for this: 
+- Which location has the greatest salary?
+- Which region has the biggest wage growth?
+- Which area provides the most job satisfaction?
 
-### Question 1: What is the state of affairs in Vietnam in 2020-2021?
-Data may be filtered by Vietnam and grouped by date and time.
-Make a chart to aid with visualizing.
-### Question 2: Current Situation in ASEAN and China in 2020-2021
-Sort data by date and time.
-Make a chart to aid with visualizing.
-### Question 3: Which nation had the most rapid spread of COVID-19?
-Sort the data by year.
-Filter the data frame by nation and location.
+2- Data Understanding
+The information is derived from the stack overflow 2017 survey [link](https://insights.stackoverflow.com/survey).
+The Annual Developer Survey explores all areas of the developer experience, from learning to code to favored tools to version control and professional developers' job experiences.
+
+3- Prepare Data
+
+For the data preparation step, we obtained the data, reviewed it, and then cleaned it, focusing on our columns of interest using the Numpy and Pandas Python tools.
+
+4- Data Modeling
+Using the Python packages matplotlib and seaborn, we graphed several behaviors related to the three issues.
+
+5- Evaluate the Results
+
+We came to the following results based on the three questions: 
+- Which location has the greatest salary? North America  
+- Which region has the biggest wage growth? Both follow a similar trend 
+– Which area provides the most job satisfaction? They begin similarly in the first year of employment, but then Europe experiences a decline in satisfaction that does not fully recover until 20 years later.
+
+
+[link]([https://medium.com/@thuhuyen.tmt/is-north-america-a-better-immigration-option-for-software-engineers-than-europe-9320396711a9](https://medium.com/@thoai.phank18/is-north-america-a-sensible-immigration-choice-than-europe-for-software-engineers-841278477f67))
+
+A summary of the investigation's findings: In the end, we determined that North America is the best option.
+
+Libraries Used
+- Pandas
+- Numpy
+- Matplotlib 
+- Seaborn
+
+File in Repository
+- mainanalysis.ipynb: notebook contains the data analysis
+- stack-overflow-developer-survey-2017.zip: Stackoverflow's 2017 survey data
+- Readme.md
