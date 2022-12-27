@@ -1,7 +1,7 @@
-## Introduction
 This project is part of the Nanodegree Program for Data Scientists at Udacity.
 
 1- Business Understanding
+
 We investigated if North America was a better place for a software engineer to settle than Europe.
 
 To do so, it is vital to understand job searchers' goals; factors such as compensation, possibility for wage growth, and job contentment are critical in identifying the optimal location.
@@ -12,6 +12,7 @@ We asked three questions for this:
 - Which area provides the most job satisfaction?
 
 2- Data Understanding
+
 The information is derived from the stack overflow 2017 survey [link](https://insights.stackoverflow.com/survey).
 The Annual Developer Survey explores all areas of the developer experience, from learning to code to favored tools to version control and professional developers' job experiences.
 
@@ -20,6 +21,7 @@ The Annual Developer Survey explores all areas of the developer experience, from
 For the data preparation step, we obtained the data, reviewed it, and then cleaned it, focusing on our columns of interest using the Numpy and Pandas Python tools.
 
 4- Data Modeling
+
 Using the Python packages matplotlib and seaborn, we graphed several behaviors related to the three issues.
 
 5- Evaluate the Results
@@ -30,7 +32,7 @@ We came to the following results based on the three questions:
 – Which area provides the most job satisfaction? They begin similarly in the first year of employment, but then Europe experiences a decline in satisfaction that does not fully recover until 20 years later.
 
 
-[link]([https://medium.com/@thuhuyen.tmt/is-north-america-a-better-immigration-option-for-software-engineers-than-europe-9320396711a9](https://medium.com/@thoai.phank18/is-north-america-a-sensible-immigration-choice-than-europe-for-software-engineers-841278477f67))
+https://medium.com/@thoai.phank18/is-north-america-a-sensible-immigration-choice-than-europe-for-software-engineers-841278477f67
 
 A summary of the investigation's findings: In the end, we determined that North America is the best option.
 
